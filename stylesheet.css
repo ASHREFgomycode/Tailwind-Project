@@ -1,0 +1,25 @@
+*{
+    color:rgba(255, 235, 205, 0.871)
+}
+nav p{
+    color: rgba(255, 235, 205, 0.871);
+}
+nav{
+    background-color: rgba(97, 147, 97, 0.884);
+
+}
+#hero-sec{
+    background-image: url(xxxxx.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+header{
+    position: sticky;
+    top: 0;
+    
+}
+
+#intro{
+    background-color: rgba(97, 147, 97, 0.884);
+}
